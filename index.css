@@ -26,11 +26,11 @@ body {
 }
 @font-face {
   font-family: "lexend";
-  src: url("/assets/lexend.woff2") format("woff2");
+  src: url("../assets/lexend.woff2") format("woff2");
 }
 @font-face {
   font-family: "hammer";
-  src: url("/assets/hammer.woff2") format("woff2");
+  src: url("../assets/hammer.woff2") format("woff2");
 }
 html {
   -webkit-text-size-adjust: none; /* for iOS Safari */
