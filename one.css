@@ -1,0 +1,18 @@
+.typing-effect .text {
+  overflow: hidden;
+  border-right: .15em solid orange;
+  white-space: nowrap;
+  margin: 0 auto;
+  letter-spacing: .15em;
+  animation: typing 3s steps(20, end), erasing 2s 3s steps(20, end) infinite;
+}
+
+@keyframes typing {
+  from { width: 0 }
+  to { width: 9ch }
+}
+
+@keyframes erasing {
+  0% { width: 9ch }
+  100% { width: 0 }
+}

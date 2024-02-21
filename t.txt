@@ -1,0 +1,21 @@
+<div id="t-quotes">
+                            <div class="testimonialss">
+                                <blockquote id="t-text">
+                                    The injection was administered with such precision and care, and Dr Sahu took the time to explain each step, easing any
+                                    apprehensions I may have had. Thank you for your expertise and warm bedside manner!"
+                                </blockquote>
+                                <br>
+                                <h6>4th person</h6>
+                            </div>
+                        </div>
+
+                        <div id="t-quotes">
+                            <div class="testimonialss">
+                                <blockquote id="t-text">
+                                    The injection was administered with such precision and care, and Dr Sahu took the time to explain each step, easing any
+                                    apprehensions I may have had. Thank you for your expertise and warm bedside manner!"
+                                </blockquote>
+                                <br>
+                                <h6>4th person</h6>
+                            </div>
+                        </div>
