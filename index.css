@@ -30,7 +30,7 @@ body {
 }
 @font-face {
   font-family: "hammer";
-  src: url("../assets/hammer.woff2") format("woff2");
+  src: url(https://font-public.canva.com/YACgEWNFnT4/0/subsets/HammersmithOne.cfb6e7fe5e1dd37a3ef5ad521.6f3074bd3062fcf1916680ae44696af.woff2) format("woff2");
 }
 html {
   -webkit-text-size-adjust: none; /* for iOS Safari */
